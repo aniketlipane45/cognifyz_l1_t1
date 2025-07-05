@@ -62,7 +62,9 @@ cognifyz-landing-page/
 
 ## 📸 Screenshots
 
-![Website Preview](assets/screenshot1.png)
+
+
+> `![Screenshot Name](assets/screenshot1.png)`
 
 
 
