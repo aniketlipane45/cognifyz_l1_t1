@@ -60,16 +60,6 @@ cognifyz-landing-page/
 ````
 
 
-## 📸 Screenshots
-
-
-
-> `![Screenshot Name](assets/Screenshot_1.png)`
-![Website Preview](assets/Screenshot_2.png)
-
-
-
-
 
 ## 💡 How to Use
 
