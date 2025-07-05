@@ -1,0 +1,99 @@
+.nav{
+    /* display: flex; */
+    margin: 0px;
+    padding: 10px;
+    background-color:aqua;
+
+justify-content: center;
+
+
+    
+}
+.navimg{
+    display: flex;
+    justify-content: center;
+
+}
+.navb{
+    display: flex;
+    /* gap: 70px; */
+    justify-content: space-around;
+    color: black;
+
+
+}
+.b{
+    margin: 20px;
+    line-height: 25px;
+    background-color: white;
+    color: black;
+    border-radius: 15px ;
+    border-color: rgb(211, 19, 19);
+    font-size: large;
+
+}
+#head{margin: 80px;
+    color: blue; 
+    font-size: 50px;
+    font-style:oblique;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+    background-color: rgb(158, 147, 147);
+
+}
+
+.detail{
+    display: flex;
+    /* margin: 50px; */
+    padding: 50px;
+    padding-bottom: 0px;
+    justify-content: center;
+    align-content: center;
+
+
+}
+#dp{
+    color: black;
+    font-size: large;
+}
+.about{
+    margin: 0px;
+    padding: 0px;
+}
+h6{
+    font-size: large;
+    color: black;
+}
+.foot{
+    background-color: rgb(153, 193, 21);
+    font-size: 20px;
+    padding: 50px;
+    border-radius: 80px;;
+}
+#sub{
+    display: flex;
+    /* justify-content: center; */
+
+    /* align-content: center; */
+    /* color: aqua; */
+    margin-left: 300px;
+    margin-top: 20px;
+    padding: 11px;
+    border-radius: 11px;
+}
+h3{
+    background-color: aqua;
+    display: inline;
+}
+h6{
+    margin-top: 1%;
+}
+.h1about{
+    /* background-color: bisque; */
+    margin-top: 0%;
+    
+}
