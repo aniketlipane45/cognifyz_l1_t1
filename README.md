@@ -5,7 +5,7 @@ Welcome to the **Cognifyz Technologies** website project — a modern, responsiv
 
 ![Cognifyz Logo](cognifyz-1.png)
 
----
+
 
 ## 📌 Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the **Cognifyz Technologies** website project — a modern, responsiv
 - [📬 Contact](#-contact)
 - [📄 License](#-license)
 
----
+
 
 ## 🔍 About
 
@@ -26,7 +26,7 @@ Welcome to the **Cognifyz Technologies** website project — a modern, responsiv
 
 This is a front-end static website designed for **Cognifyz Technologies**, a company leading in the AI, ML, and Data Analytics space. It showcases the company's mission, offerings, and a form to connect with potential users or clients.
 
----
+
 
 ## 🚀 Features
 
@@ -37,14 +37,13 @@ This is a front-end static website designed for **Cognifyz Technologies**, a com
 - ✅ Clean & Readable Code Structure
 - ✅ Fully Responsive Design
 
----
+
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 
----
 
 ## 📁 Project Structure
 
@@ -58,7 +57,6 @@ This is a front-end static website designed for **Cognifyz Technologies**, a com
 
 ````
 
----
 
 ## 📸 Screenshots
 
@@ -66,7 +64,7 @@ This is a front-end static website designed for **Cognifyz Technologies**, a com
 > Upload them in your GitHub repo and use the format:  
 > `![Screenshot Name](path/to/screenshot.png)`
 
----
+
 
 ## 💡 How to Use
 
@@ -91,11 +89,6 @@ To run the website locally:
    xdg-open index.html  # Linux
    ```
 
----
-
-
-
-
 
 ## 📄 License
 
@@ -104,6 +97,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 > Built with ❤️ by Cognifyz Interns
 
-```
+
 
 
