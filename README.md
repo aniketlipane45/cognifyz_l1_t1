@@ -93,9 +93,7 @@ To run the website locally:
 
 ---
 
-## 📬 Contact
 
-If you want to learn more or get in touch:
 
 
 
@@ -103,11 +101,9 @@ If you want to learn more or get in touch:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 > Built with ❤️ by Cognifyz Interns
 
 ```
 
----
 
