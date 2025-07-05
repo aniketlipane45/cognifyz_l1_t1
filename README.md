@@ -65,6 +65,8 @@ cognifyz-landing-page/
 
 
 > `![Screenshot Name](assets/Screenshot_1.png)`
+![Website Preview](assets/Screenshot_2.png)
+
 
 
 
