@@ -64,7 +64,7 @@ cognifyz-landing-page/
 
 
 
-> `![Screenshot Name](assets/screenshot1.png)`
+> `![Screenshot Name](assets/Screenshot_1.png)`
 
 
 
