@@ -9,14 +9,14 @@ Welcome to the **Cognifyz Technologies** website project — a modern, responsiv
 
 ## 📌 Table of Contents
 
-- [🔍 About](#-about)
-- [🚀 Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [📸 Screenshots](#-screenshots)
-- [💡 How to Use](#-how-to-use)
-- [📬 Contact](#-contact)
-- [📄 License](#-license)
+[🔍 About](#-about)
+[🚀 Features](#-features)
+[🛠️ Tech Stack](#️-tech-stack)
+[📁 Project Structure](#-project-structure)
+[📸 Screenshots](#-screenshots)
+[💡 How to Use](#-how-to-use)
+[📬 Contact](#-contact)
+[📄 License](#-license)
 
 
 
@@ -30,12 +30,12 @@ This is a front-end static website designed for **Cognifyz Technologies**, a com
 
 ## 🚀 Features
 
-- ✅ Responsive Navigation Bar
-- ✅ Stylish Hero Section
-- ✅ About Us Section
-- ✅ Embedded Contact Form
-- ✅ Clean & Readable Code Structure
-- ✅ Fully Responsive Design
+✅ Responsive Navigation Bar
+✅ Stylish Hero Section
+✅ About Us Section
+✅ Embedded Contact Form
+✅ Clean & Readable Code Structure
+✅ Fully Responsive Design
 
 
 
@@ -49,20 +49,21 @@ This is a front-end static website designed for **Cognifyz Technologies**, a com
 
 ```
 
-📦 cognifyz-landing-page/
-┣ 📄 index.html
-┣ 📄 style.css
-┣ 🖼️ cognifyz-1.png (Logo/Image File)
-┣ 📄 README.md
+cognifyz-landing-page/
+├── assets/
+│   └── screenshot.png
+├── index.html
+├── style.css
+└── README.md
+
 
 ````
 
 
 ## 📸 Screenshots
 
-> *(You can add screenshots of your webpage here)*  
-> Upload them in your GitHub repo and use the format:  
-> `![Screenshot Name](path/to/screenshot.png)`
+![Website Preview](assets/screenshot1.png)
+
 
 
 
