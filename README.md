@@ -47,7 +47,7 @@ This is a front-end static website designed for **Cognifyz Technologies**, a com
 
 ## 📁 Project Structure
 
-```
+<pre>
 
 cognifyz-landing-page/
 ├── assets/
@@ -57,7 +57,7 @@ cognifyz-landing-page/
 └── README.md
 
 
-````
+</pre>
 
 
 
